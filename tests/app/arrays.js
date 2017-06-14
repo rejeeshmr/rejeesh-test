@@ -16,7 +16,7 @@ describe('arrays', function() {
   });
 
   it('you should be able to sum the items of an array', function() {
-    expect(arraysAnswers.sum(a)).to.eql(10);
+    expect(arraysAnswers.sum(a)).to.eql(20);
   });
 
   it('you should be able to remove all instances of a value from an array', function() {
