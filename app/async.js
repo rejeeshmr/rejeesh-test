@@ -22,7 +22,7 @@ exports.asyncAnswers = {
           resolve(names);
         })
         .error(function(){
-          reject("Error message");
+          reject("Error message test1");
         });
 
 
